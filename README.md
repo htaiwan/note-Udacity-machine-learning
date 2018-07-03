@@ -9,7 +9,7 @@
 	- [決策樹](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/決策樹.md)
 	- [樸素貝葉斯](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/樸素貝葉斯.md)
 	- [支持向量機](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/支持向量機.md)
-	- [集成方法]()
+	- [集成方法](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/集成方法.md)
 
 - [深度學習]()
 - [非監督學習]()
