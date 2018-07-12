@@ -11,6 +11,7 @@
 	- [支持向量機](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/支持向量機.md)
 	- [集成方法](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/集成方法.md)
 
-- [深度學習]()
+- 深度學習
+	- [神經網路](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/神經網路.md)
 - [非監督學習]()
 - [強化學習]()
