@@ -13,5 +13,6 @@
 
 - 深度學習
 	- [神經網路](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/神經網路.md)
+	- [深度神經網路](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/深度神經網路.md)
 - [非監督學習]()
 - [強化學習]()
