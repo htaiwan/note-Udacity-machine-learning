@@ -18,4 +18,5 @@
 	- [癌症偵測深度學習](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/癌症偵測深度學習.md)
 - 非監督學習
 	- [聚類](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/聚類.md)
+	- [層次聚類與密度聚類](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/層次聚類法與密度聚類.md)
 - [強化學習]()
