@@ -19,4 +19,5 @@
 - 非監督學習
 	- [聚類](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/聚類.md)
 	- [層次聚類與密度聚類](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/層次聚類法與密度聚類.md)
+	- [高斯混合模型與聚類驗證](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/高斯混合模型與聚類驗證.md)
 - [強化學習]()
