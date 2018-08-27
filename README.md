@@ -22,4 +22,5 @@
 	- [高斯混合模型與聚類驗證](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/高斯混合模型與聚類驗證.md)
 	- [特徵縮放](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/特徵縮放.md)
 	- [PCA](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/PCA.md)
+	- [隨機投影與ICA](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/隨機投影與ICA.md)
 - [強化學習]()
