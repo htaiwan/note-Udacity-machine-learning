@@ -18,6 +18,7 @@
 	- [癌症偵測深度學習](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/癌症偵測深度學習.md)
 - 非監督學習
 	- [聚類](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/聚類.md)
+	- [聚類迷你項目](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/Jupyter/k-means_Clustering_of_Movie_Ratings-zh.ipynb)
 	- [層次聚類與密度聚類](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/層次聚類法與密度聚類.md)
 	- [高斯混合模型與聚類驗證](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/高斯混合模型與聚類驗證.md)
 	- [特徵縮放](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/特徵縮放.md)
