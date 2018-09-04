@@ -24,4 +24,5 @@
 	- [特徵縮放](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/特徵縮放.md)
 	- [PCA](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/PCA.md)
 	- [隨機投影與ICA](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/隨機投影與ICA.md)
-- [強化學習]()
+- 強化學習
+   - [強化學習基礎](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/強化學習基礎.md)
