@@ -29,3 +29,4 @@
    - [強化學習框架-問題](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/強化學習框架-問題.md)
    - [強化學習框架-解決方法](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/強化學習框架-解決方法.md)
    - [動態規劃](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/動態規劃.md)
+   - [蒙特卡洛方法](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/蒙特卡洛方法.md)
