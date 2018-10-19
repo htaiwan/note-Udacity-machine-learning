@@ -33,3 +33,4 @@
    - [時間差分方法](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/時間差分方法.md)
    - [Taxi迷你項目](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/Taxi迷你項目.md)
    - [連續空間的強化學習](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/連續空間的強化學習.md)
+   - [深度Q學習](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/深度Q學習.md)
