@@ -35,3 +35,4 @@
    - [連續空間的強化學習](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/連續空間的強化學習.md)
    - [深度Q學習](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/深度Q學習.md)
    - [策略梯度](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/策略梯度.md)
+   - [行動者-評論者方法](https://github.com/htaiwan/note-Udacity-machine-learning/blob/master/行動者-評論者方法.md)
